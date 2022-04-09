@@ -1,3 +1,2 @@
-# Spatial-Data-Mining
+# Data Mining Lecture
 - school project
-- preprocessing is on progress
